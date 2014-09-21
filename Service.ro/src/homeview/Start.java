@@ -1,5 +1,8 @@
+
 package homeview;
 
-public class Start {
+import android.app.Activity;
+
+public class Start extends Activity {
 
 }
